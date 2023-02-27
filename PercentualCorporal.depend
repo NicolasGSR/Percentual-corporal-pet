@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659912481 source:c:\users\nishow\desktop\documentos\percentualcorporal\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1659912481 c:\users\nishow\desktop\documentos\percentualcorporal\resource.h
+
